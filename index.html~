@@ -24,7 +24,7 @@
       </div>
       <div class="images">
         <div class="image">
-          <img src="style/images/1.jpg" alt="" >
+          <a href="#" ><img src="style/images/1.jpg" alt="" ></a>
           <p>Hodor hodor</p>
           <a href="" class="white-bordered-link"> Horor on hodor</a>        
         </div> 
@@ -69,7 +69,7 @@
           <a href="" class="white-bordered-link"> Horor on hodor</a>        
         </div> 
          <div class="image">
-          <img src="style/images/10.jpg" alt="" >
+          <img src="style/images/10.png" alt="" >
           <p>Hodor hodor</p>
           <a href="" class="white-bordered-link"> Horor on hodor</a>        
         </div> 

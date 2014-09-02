@@ -12,17 +12,23 @@ body {
   padding-bottom: 50px;
 }
 
-.top-image {
+.top-image,
+.top-image2 {
   display: block;
   width: 180px;
   height: 180px;
-  margin:50px auto 30px auto;
-  background-image: url(images/7.jpg);
   border-radius: 90px;
 }
 
-.top-image:hover {
+.top-image {
+  background-image: url(images/7.jpg);
+  margin:50px auto 30px auto;
+}
+
+.top-image2 {
   background-image: url(images/6.jpg);
+  margin:-210px auto 30px auto;
+  
 }
 
 .bordered-link,
@@ -114,17 +120,23 @@ body {
 .image p {
   color: #fff;
   margin-top: -180px;
+      -ms-user-select: none;
+     -moz-user-select: none;
+   -khtml-user-select: none;
+  -webkit-user-select: none;
+  cursor: pointer;
 }
 
 .image p,
-.image a {
+.image .white-bordered-link {
   visibility: hidden;
   position: relative;
   z-index: 3;
 }
 
+
 .image:hover p,
-.image:hover a {
+.image:hover .white-bordered-link {
   visibility: visible;
   opacity: 1;
 }
