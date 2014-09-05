@@ -121,6 +121,7 @@ body {
 
 .glass-icon:hover + .e-glass {
   visibility: visible;
+  opacity: 1;
 }
   
 .univer-icon:hover {
@@ -129,6 +130,7 @@ body {
 
 .univer-icon:hover + .e-university {
   visibility: visible;
+  opacity: 1;
 }
 
 .plane-icon:hover {
@@ -138,6 +140,7 @@ body {
 .plane-icon:hover + .e-plane,
 .plane-icon:hover + .e-plane::after {
   visibility: visible;
+  opacity: 1;
 }  
 
 .umbrella-icon:hover {
@@ -146,6 +149,7 @@ body {
 
 .umbrella-icon:hover + .e-umbrella {
   visibility: visible;
+  opacity: 1;
 }  
 
 .images {
