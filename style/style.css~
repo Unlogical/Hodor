@@ -119,8 +119,7 @@ body {
   color: #ffa276;
 }  
 
-.glass-icon:hover + .e-glass
- {
+.glass-icon:hover + .e-glass {
   visibility: visible;
   opacity: 0.9;
 }
@@ -129,8 +128,7 @@ body {
   color: #b0e0e6;
 }  
 
-.univer-icon:hover + .e-university,
-.univer-icon:hover + .e-university::after {
+.univer-icon:hover + .e-university {
   visibility: visible;
   opacity: 0.9;
 }
@@ -149,8 +147,7 @@ body {
   color: #ff3e96;
 }
 
-.umbrella-icon:hover + .e-umbrella,
-.umbrella-icon:hover + .e-umbrella::after {
+.umbrella-icon:hover + .e-umbrella {
   visibility: visible;
   opacity: 0.9;
 }  
