@@ -110,7 +110,7 @@ body {
   content: ''; 
   position: relative; 
   left: -20px; 
-  bottom: -30px; 
+  bottom: -29px; 
   border: 5px solid transparent;
   border-top: 5px solid #444; 
 }
